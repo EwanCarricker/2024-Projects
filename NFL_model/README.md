@@ -35,4 +35,5 @@ As an avid watcher of the sport, these are the parameters that I felt would have
 * Include data on head coaches / quarterbacks
 
 #### Getting Started
+git clone https://github.com/username/repository-name.git
 
