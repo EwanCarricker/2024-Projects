@@ -41,6 +41,8 @@ After a couple of minutes, this will return the Home Team, Away Team, Home Cover
 ### Results
 The model should return 2/3 teams a week that it suggests should cover the spread. In these games, the model was correct 60% of the time.
 
+![NFL Model Results](https://raw.githubusercontent.com/EwanCarricker/2024/refs/heads/main/NFL_model/results.PNG?token=GHSAT0AAAAAAC27KRAH53TFQQSNJFVNFKNAZ2EQHFQ)
+
 ### Replicating this code
 git clone [(https://github.com/EwanCarricker/2024/tree/main/NFL_model]
 
