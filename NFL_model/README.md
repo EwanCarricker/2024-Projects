@@ -34,6 +34,14 @@ As an avid watcher of the sport, these are the parameters that I felt would have
 * More team-by-team focused
 * Include data on head coaches / quarterbacks
 
-#### Getting Started
-git clone https://github.com/username/repository-name.git
+#### Replicating this code
+git clone [(https://github.com/EwanCarricker/2024/tree/main/NFL_model]
 
+* RUN_MODEL.py: Runs the program for the next week's fixtures/
+* future_fixtures.py: Pooled together the metrics and calculated the best weighting.
+* NFL2.py: Basis code for each metric.
+* NFL.xlsx: Raw Data File (you will need to update this each week)
+
+##### Runnning the Model
+Open cmd prompt and type "python RUN_MODEL.py"
+After a couple of minutres, this will return the Home Team, Away Team, Home Cover %, Away Cover %, Cover?
