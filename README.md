@@ -1,5 +1,9 @@
 # Ewan Carricker
 
-## This is a folder containing my 2024 projects.
+## This is a folder containing my 2024 projects:
 
-I plan to add more projects in Dec 24' utilising SQL & data-visualisation programs such as Tableau + Power BI
+* NFL Spread Predictor Model using Python
+* Hackney Data Viz using Tableau
+
+#### Upcoming:
+* Project will demonstrate an ability to utilise SQL and Power BI
